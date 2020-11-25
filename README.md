@@ -23,5 +23,4 @@ $ bundle exec jekyll serve
 ```
 
 # Binder compability
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/sunnivin/jupyter/tree/gh-pages/HEAD)
-
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/sunnivin/jupyter/HEAD)
